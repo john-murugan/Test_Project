@@ -29,11 +29,11 @@ public class Practice_01 extends Practice_A {
 	
 	public static void main(String[] args) {
 	
-//		method_01();
-//		method_02(2123423427);
+		method_01();
+		method_02(2123423427);
 		method_02(982342342);
-//		Practice_01 pr = new Practice_01();
-//		pr.method_D();
+		Practice_01 pr = new Practice_01();
+		pr.method_D();
 		pyramid();
 	
 	}
