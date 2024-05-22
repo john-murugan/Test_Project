@@ -30,7 +30,7 @@ public abstract class Practice_A {
 		
 		method_A();
 		method_B();
-		method_C();
+//		method_C();
 		
 		System.out.println("Result of method_B 't' value = "+method_B());
 		System.out.println("Run successfully");
